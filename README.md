@@ -3,7 +3,7 @@ Here is a music player with latest songs of 2022 and a clone like spotify.
 
 Working on it ...
 
-![Main home](https://user-images.githubusercontent.com/106212014/185801435-761db9a9-0ffc-445e-bd73-93fbfdd3aa20.jpg)
+
 
 ![themes](https://user-images.githubusercontent.com/106212014/185801457-bab99bc2-c0d8-48cf-86bf-29a71b55e2ec.jpg)
 ![latest hindi](https://user-images.githubusercontent.com/106212014/185801463-109a1533-d023-405b-8910-bc00627346b5.jpg)
